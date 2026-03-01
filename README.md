@@ -1,4 +1,4 @@
-# AIML_Hackathon_Learners
+# Automated-Company-Teaser-Deck-Builder
 
 # Automated Investment Teaser Generator (Kelp AI Hackathon)
 By **Learners**: <br>
@@ -81,9 +81,11 @@ Output:
 ## How to Run
 
 ### 1. Adding the API key
+```bash
 Go to Google AI Studio --> Get an API key --> Get API key --> Create API key --> Create key
 Then copy the API key code and paste it in
 config.json --> "api_key" : "ENTER YOUR API KEY HERE",
+```
 
 ### 2. Navigate to folder
 ```bash
