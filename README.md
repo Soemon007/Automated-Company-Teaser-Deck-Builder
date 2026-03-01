@@ -4,7 +4,7 @@
 By **Learners**: <br>
 
 -Rehan Mallik(Soemon007)<br>   
--Vedant Iyengar(Eclipse1299)
+-Vedant Iyengar(eclipse1299)
 
 ## Overview
 
