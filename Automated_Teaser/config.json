@@ -1,0 +1,30 @@
+{
+  "api_key": "ENTER YOUR API KEY HERE",
+  "companies": [
+    {
+      "name": "Kalyani Forge",
+      "file": "Kalyani Forge-OnePager.md"
+    },
+    {
+      "name": "Centum",
+      "file": "Centum-OnePager.md"
+    },
+    {
+      "name": "Connplex Cinemas",
+      "file": "Connplex Cinemas-OnePager.md"
+    },
+    {
+      "name": "Gati",
+      "file": "Gati-OnePager.md"
+    },
+    {
+      "name": "Ind Swift",
+      "file": "Ind Swift-OnePager.md"
+    },
+    {
+      "name": "Ksolves",
+      "file": "Ksolves-OnePager.md"
+    }
+  ],
+  "data_directory": "data/private/"
+}
