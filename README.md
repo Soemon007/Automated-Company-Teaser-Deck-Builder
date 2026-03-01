@@ -80,11 +80,16 @@ Output:
 
 ## How to Run
 
-### 0. Navigate to folder
+### 1. Adding the API key
+Go to Google AI Studio --> Get an API key --> Get API key --> Create API key --> Create key
+Then copy the API key code and paste it in
+config.json --> "api_key" : "PASTE HERE",
+
+### 2. Navigate to folder
 ```bash
 cd Desktop/AIML_Hackathon_Learners-main/Kelp_ai_teaser
 ```
-### 1. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt  // or // pip3 install -r requirements.txt
@@ -96,13 +101,13 @@ Then run this:
 python -m spacy download en_core_web_lg
 ```
 
-### 2. Run the Full Pipeline
+### 4. Run the Full Pipeline
 
 ```bash
 python main.py
 ```
 
-### 3. Outputs
+### 5. Outputs
 
 After a successful run, you will find:
 
