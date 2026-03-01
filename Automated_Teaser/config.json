@@ -2,29 +2,29 @@
   "api_key": "ENTER YOUR API KEY HERE",
   "companies": [
     {
-      "name": "Kalyani Forge",
-      "file": "Kalyani Forge-OnePager.md"
+      "name": "", #Put Company Name here
+      "file": ""  #Put file name here
     },
     {
-      "name": "Centum",
-      "file": "Centum-OnePager.md"
+      "name": "",
+      "file": ""
     },
     {
-      "name": "Connplex Cinemas",
-      "file": "Connplex Cinemas-OnePager.md"
+      "name": "",
+      "file": ""
     },
     {
-      "name": "Gati",
-      "file": "Gati-OnePager.md"
+      "name": "",
+      "file": ""
     },
     {
-      "name": "Ind Swift",
-      "file": "Ind Swift-OnePager.md"
+      "name": "",
+      "file": ""
     },
     {
-      "name": "Ksolves",
-      "file": "Ksolves-OnePager.md"
+      "name": "",
+      "file": ""
     }
   ],
-  "data_directory": "data/private/"
+  "data_directory": "data/private/" # All .md files of company will be placed
 }
