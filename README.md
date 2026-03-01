@@ -83,15 +83,25 @@ Output:
 ### 1. Adding the API key
 ```bash
 Go to Google AI Studio --> Get an API key --> Get API key --> Create API key --> Create key
-Then copy the API key code and paste it in
+Then copy the API key code and paste it in Automated_Teaser/Kelp_ai_teaser
 config.json --> "api_key" : "ENTER YOUR API KEY HERE",
 ```
-
-### 2. Navigate to folder
+### 2. Adding the private data
 ```bash
-cd Desktop/AIML_Hackathon_Learners-main/Kelp_ai_teaser
+In config.json --> companies
+add the file name in : "name" 
+(eg: tata)
+add the file name+extension in: "file"
+(eg: tata.md)
+Then add the file in Automated_Teaser/Kelp_ai_teaser/data/private
+You can add upto six company files this way
+The more detailed the file is the better the ppt will be
 ```
-### 3. Install Dependencies
+### 3. Navigate to folder
+```bash
+cd Desktop/Automated_Teaser/Kelp_ai_teaser
+```
+### 4. Install Dependencies
 
 ```bash
 pip install -r requirements.txt  // or // pip3 install -r requirements.txt
@@ -103,13 +113,13 @@ Then run this:
 python -m spacy download en_core_web_lg
 ```
 
-### 4. Run the Full Pipeline
+### 5. Run the Full Pipeline
 
 ```bash
 python main.py
 ```
 
-### 5. Outputs
+### 6. Outputs
 
 After a successful run, you will find:
 
