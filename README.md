@@ -3,8 +3,8 @@
 # Automated Investment Teaser Generator (Kelp AI Hackathon)
 By **Learners**: <br>
 
--Rehan Mallik<br>   
--Vedant Iyengar
+-Rehan Mallik(Soemon007)<br>   
+-Vedant Iyengar(Eclipse1299)
 
 ## Overview
 
@@ -81,9 +81,9 @@ Output:
 ## How to Run
 
 ### 0. Navigate to folder
-
+```bash
 cd Desktop/AIML_Hackathon_Learners-main/Kelp_ai_teaser
-
+```
 ### 1. Install Dependencies
 
 ```bash
